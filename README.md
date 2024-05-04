@@ -25,3 +25,7 @@ gain muscle but don't worry about fat %
 V 0.6 Update 05/03/24 7:28 PM
   -Added Error handeling when user is inputing their data
   -Fixed minor bugs
+
+V 0.7 Update 05/03/24 9:10 PM
+  -Minor bug fixes
+  -Minor Code Optimizations
