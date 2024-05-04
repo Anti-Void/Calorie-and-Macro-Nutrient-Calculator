@@ -18,3 +18,7 @@ gain weight
 loose weight
 gain muscle and loose fat
 gain muscle but don't worry about fat %
+
+Update 05/03/24 7:28 PM
+  -Added Error handeling when user is inputing their data
+  -Fixed minor bugs
