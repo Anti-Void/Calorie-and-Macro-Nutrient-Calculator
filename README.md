@@ -1,4 +1,7 @@
 # Calorie-and-Macro-Nutrient-Calculator
+
+Inital Released Version = V 0.5
+
 The Program will prompt the user to enter their 
 
 biological sex 
@@ -19,6 +22,6 @@ loose weight
 gain muscle and loose fat
 gain muscle but don't worry about fat %
 
-Update 05/03/24 7:28 PM
+V 0.6 Update 05/03/24 7:28 PM
   -Added Error handeling when user is inputing their data
   -Fixed minor bugs
