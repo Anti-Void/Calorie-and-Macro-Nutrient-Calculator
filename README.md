@@ -29,3 +29,14 @@ V 0.6 Update 05/03/24 7:28 PM
 V 0.7 Update 05/03/24 9:10 PM
   -Minor bug fixes
   -Minor Code Optimizations
+
+V 0.8 Update 05/09/24 9:35 AM
+  Finished Features
+    -More accurate computer generated data
+
+  Unfinished Features Currently Working on: 05/09/24 9:36 AM
+                -Allowing the user to enter their height in feet and inches format
+                -Make the AI tester more complicated
+                    -Allow it to run through individual questions instead of all of it at once
+                      -Users will be able to skip to any question and the computer will auto generate
+                      data up to the question the user skips to
